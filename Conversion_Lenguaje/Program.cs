@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using Conversion_Lenguaje;
+using System.Text.Json.Serialization;
 
 
 [XmlRoot("Persona")]
@@ -13,10 +14,9 @@ public class Persona
     public int Id { get; set; }
 
     [XmlElement("Nom")]
-    public string Nom { get; set; } = default!;
-    
-    [XmlElement("Cognom")]
-    public string Cognom { get; set; } = default!;
+    [JsonPropertyName("Nom")]
+    public string NomCognoms { get; set; } = default!;
+
 
     [XmlElement("DataNaixement")]
     public DateTime DataNaixement { get; set; }
@@ -36,8 +36,7 @@ public class Operacio : IOperacio
         return new Persona
         {
             Id = 1,
-            Nom = "Alex",
-            Cognom = "Martínez",
+            NomCognoms = "Alex Martínez",
             Edat = 25,
             DataNaixement = new DateTime(1999, 10, 20),
             Mascotes = new List<Mascota>
@@ -80,7 +79,7 @@ public class Operacio : IOperacio
 
     public void PintaPersonaPerConsola(Persona persona)
     {
-        Console.WriteLine($"Persona: {persona.Nom} {persona.Cognom}, Edat: {persona.Edat}, Naixement: {persona.DataNaixement.ToShortDateString()}");
+        Console.WriteLine($"Persona: {persona.NomCognoms}, Edat: {persona.Edat}, Naixement: {persona.DataNaixement.ToShortDateString()}");
         foreach (var mascota in persona.Mascotes)
         {
             Console.WriteLine($" - Mascota: {mascota.Nom}, Tipus: {mascota.Tipus}");

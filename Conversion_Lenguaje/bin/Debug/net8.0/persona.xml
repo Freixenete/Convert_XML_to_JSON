@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="1">
+  <Nom>Alex</Nom>
+  <Cognom>Martínez</Cognom>
+  <DataNaixement>1999-10-20T00:00:00</DataNaixement>
+  <Edat>25</Edat>
+  <Mascotes>
+    <Mascota Nom="Bobby">
+      <Tipus>Gos</Tipus>
+    </Mascota>
+    <Mascota Nom="Miau">
+      <Tipus>Gat</Tipus>
+    </Mascota>
+  </Mascotes>
+</Persona>

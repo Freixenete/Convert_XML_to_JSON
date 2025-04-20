@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\bin\Debug\net8.0\Conversion_Lenguaje.exe
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\bin\Debug\net8.0\Conversion_Lenguaje.deps.json
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\bin\Debug\net8.0\Conversion_Lenguaje.runtimeconfig.json
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\bin\Debug\net8.0\Conversion_Lenguaje.dll
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\bin\Debug\net8.0\Conversion_Lenguaje.pdb
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.AssemblyInfo.cs
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.sourcelink.json
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.dll
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\refint\Conversion_Lenguaje.dll
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.pdb
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\Conversion_Lenguaje.genruntimeconfig.cache
+C:\Users\rober\Desktop\Programacion\DAWN\Lenguaje de marcas\Conversion_Lenguaje\Conversion_Lenguaje\obj\Debug\net8.0\ref\Conversion_Lenguaje.dll
